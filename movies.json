@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "release": 2010,
+    "synopsis": "Dans ce film de science-fiction captivant, un voleur habile se lance dans l'ultime braquage : le vol de secrets précieux enfouis dans l'esprit lorsqu'une personne est la plus vulnérable - pendant ses rêves."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "release": 2014,
+    "synopsis": "Dans un futur où la Terre est devenue inhabitable, un groupe d'explorateurs part à la recherche d'une nouvelle planète habitable pour l'humanité. Ils doivent affronter d'énormes défis et repousser les limites de la science pour assurer la survie de l'espèce humaine."
+  },
+  {
+    "id": 3,
+    "title": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "release": 2001,
+    "synopsis": "Dans ce premier volet de la trilogie épique, un jeune hobbit nommé Frodo Baggins entreprend un voyage périlleux pour détruire un anneau maléfique qui pourrait mettre fin au monde tel qu'il le connaît. Il est rejoint par une communauté hétéroclite d'elfes, de nains, de humains et d'autres créatures fantastiques dans cette quête pour sauver la Terre du Milieu de l'obscurité éternelle."
+  },
+  {
+    "id": 4,
+    "title": "La Ligne Verte",
+    "release": 1999,
+    "synopsis": "Basé sur le roman de Stephen King, 'La Ligne Verte' raconte l'histoire d'un homme condamné à mort qui développe des liens profonds avec ses co-détenus et les gardiens de la prison où il est incarcéré. Le film explore des thèmes de culpabilité, d'amitié et de rédemption dans un contexte de racisme et d'injustice."
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "release": 1994,
+    "synopsis": "Ce film suit la vie extraordinaire de Forrest Gump, un homme au QI inférieur à la moyenne mais doté d'un grand cœur. À travers une série d'événements historiques majeurs, Forrest se retrouve impliqué dans des situations incroyables et rencontre des personnages célèbres, tout en poursuivant son amour de toute une vie, Jenny."
+  }
+]
